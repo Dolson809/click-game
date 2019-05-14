@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.363c575e.chunk.css",
+    "main.js": "/static/js/main.f05c5d59.chunk.js",
+    "main.js.map": "/static/js/main.f05c5d59.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a4ded3e8e33a8e90edda9b0738490aa6.js": "/precache-manifest.a4ded3e8e33a8e90edda9b0738490aa6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.363c575e.chunk.css.map": "/static/css/main.363c575e.chunk.css.map",
+    "static/media/food-1.jpg": "/static/media/food-1.442f5b33.jpg",
+    "static/media/food-10.jpg": "/static/media/food-10.80768bda.jpg",
+    "static/media/food-11.jpg": "/static/media/food-11.8c9b50f2.jpg",
+    "static/media/food-3.jpg": "/static/media/food-3.769cf0b4.jpg",
+    "static/media/food-4.jpg": "/static/media/food-4.555d77e7.jpg",
+    "static/media/food-6.jpg": "/static/media/food-6.c4ede9a2.jpg",
+    "static/media/food-7.jpg": "/static/media/food-7.075d1fb0.jpg",
+    "static/media/food-8.jpg": "/static/media/food-8.785ee3d9.jpg",
+    "static/media/food-9.jpg": "/static/media/food-9.4ad0810c.jpg"
+  }
+}
